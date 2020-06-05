@@ -1,7 +1,9 @@
 # DoughtyBirdGame
-It is a mobile game, similar as Flappy Bird game, and is made in Unity 2018.4.18f1
+It is a mobile game, similar as Flappy Bird game, and is made in Unity 2018.4.18f1.
 
-The Start page will look like:
+The game is made in C# language.
+
+The Start page of the game will look like:
 
 <img src="images/Screenshot.png" width="200" height="400">
 
