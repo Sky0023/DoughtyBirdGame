@@ -12,3 +12,6 @@ From Freepack of Flaticon.com we get the robin bird and the licence is provided 
 Working of the game is shown below:
 
 ![](images/Gif.gif)
+
+## License
+Doughty Bird is licensed under the [MIT License](https://github.com/Sky0023/DoughtyBirdGame/blob/master/LICENSE)
