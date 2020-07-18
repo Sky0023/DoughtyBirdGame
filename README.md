@@ -7,7 +7,7 @@ The Start page of the game will look like:
 
 <img src="images/Screenshot.png" width="200" height="400">
 
-From Freepack of Flaticon.com we get the robin bird and the licence is provided above.
+From Freepack of Flaticon.com we get the robin bird and the [license](https://github.com/Sky0023/DoughtyBirdGame/tree/master/license) is provided.
 
 Working of the game is shown below:
 
